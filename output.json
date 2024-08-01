@@ -1,0 +1,81 @@
+{
+  "Profile": {
+    "Name": "Priyanshu Lapkale",
+    "Contact Details": {
+      "Phone": "+91 9075282657",
+      "Email": "lapkale0110@gmail.com",
+      "LinkedIn": "https://www.linkedin.com/in/priyanshu-lapkale-9206931b8/",
+      "GitHub": "https://github.com/mh31-priyanshu"
+    }
+  },
+  "Education": [
+    {
+      "Institution": "Vishwakarma Institute of Information Technology, Pune, India",
+      "Degree": "B.Tech in Computer Engineering",
+      "Duration": "2022-2025",
+      "CGPA": "9.15 / 10",
+      "Coursework": [
+        "Data Structures",
+        "Algorithms",
+        "Object-Oriented Programming",
+        "Operating Systems",
+        "Database Management Systems",
+        "Computer Networks"
+      ]
+    },
+    {
+      "Institution": "Government Polytechnic, Nagpur, India",
+      "Degree": "Diploma in Information Technology",
+      "Duration": "2019-2022",
+      "Percentage": "93.45%"
+    }
+  ],
+  "Projects": [
+    {
+      "Title": "Dev.snippet",
+      "Technologies": ["Typescript", "React", "Tailwindcss", "MongoDB"],
+      "Date": "Mar. 2024",
+      "Description": [
+        "Created 'dev.snippet', a tool for managing, saving, and sharing code snippets.",
+        "Used Sockets.io for real-time communication."
+      ]
+    },
+    {
+      "Title": "Outdoor Experience",
+      "Technologies": ["MongoDB", "React", "Express", "Nodejs", "Razorpay Gateway"],
+      "Date": "Sep. 2023",
+      "Description": [
+        "Centralized platform for a trekking group.",
+        "Integrated RazorPay Gateway for payments and email receipts.",
+        "Added Parallax effect for smooth transitions."
+      ]
+    },
+    {
+      "Title": "RPA for Resume Screening Process",
+      "Technologies": ["AutomationAnywhere", "Google Cloud APIs & Services"],
+      "Date": "Jan. 2023",
+      "Description": [
+        "Developed RPA solution for resume screening.",
+        "Custom mail sent to students with interview details."
+      ]
+    }
+  ],
+  "Technical Skills": {
+    "Languages": ["Java", "C/C++", "Python", "JavaScript", "PHP", "SQL (MySQL)", "MongoDB (NoSQL)", "HTML / CSS"],
+    "Tools and Frameworks": ["Node.js", "Express.js", "React", "Tailwindcss", "MongoDB", "Git", "Postman", "AWS", "Docker", "Automation Anywhere", "Firebase"]
+  },
+  "Professional Responsibilities": [
+    {
+      "Organization": "Rotaract Club of VIIT (District 3131)",
+      "Role": "Public Relation Officer",
+      "Date": "July. 2023",
+      "Description": "Managing and enhancing the public image of the Rotaract Club of VIIT. Coordinating with media, organizing public events, and promoting the club's activities."
+    },
+    {
+      "Organization": "GDSC (Google Developer Student Club)",
+      "Role": "Member",
+      "Date": "Sept. 2023",
+      "Description": "Contributed to organizing and executing technical events."
+    }
+  ]
+}
